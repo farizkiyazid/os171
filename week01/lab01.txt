@@ -1,1 +1,3 @@
 /home/fasilkom/mahasiswa/f/farizki.yazid/os171/week01
+Today is date+%d\ %b\ %Y\ at\ %H:%M:%s
+Today is date+%d\ %b\ %Y\ at\ %H:%M:%s
