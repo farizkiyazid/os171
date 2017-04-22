@@ -1,3 +1,7 @@
 w06-170411-16-LR-About: Kelas OS membahas processes and thread, From Lecturer
 w06-170413-16-LR-About: Kelas OS membahas processes and thread, From Lecturer
 w06-170413-16-PS-About: mengerjakan lab mingguan sambil belajar lebih lanjut, From Internet
+w07-170418-16-LR-About: Kelas OS membahas scheduling dan sockets, From Lecturer
+w07-170420-16-LR-About: Kelas OS membahas scheduling dan sockets, From Lecturer
+w07-170422-16-PS-About: mengerjakan lab mingguan sambil belajar lebih lanjut, From Internet
+
